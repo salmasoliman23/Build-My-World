@@ -1,0 +1,3 @@
+/home/salma/project 1/build/CMakeFiles/rebuild_cache.dir
+/home/salma/project 1/build/CMakeFiles/welcome_message.dir
+/home/salma/project 1/build/CMakeFiles/edit_cache.dir
